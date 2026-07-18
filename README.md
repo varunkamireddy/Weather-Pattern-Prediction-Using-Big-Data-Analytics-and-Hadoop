@@ -1,5 +1,4 @@
-# 🛣️ PathSafe — India's Smartest Travel Safety Navigator
-
+# 🛣️ PathSafe 
 **PathSafe** is a free, real-time React web application that helps Indian travelers find the **safest road routes** by combining live weather data, multi-route analysis, and danger-zone alerts — all on an interactive map.
 
 ---
