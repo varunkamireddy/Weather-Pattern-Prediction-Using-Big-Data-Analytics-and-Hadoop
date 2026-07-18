@@ -47,14 +47,6 @@ cp .env.example .env
 npm run dev
 ```
 
-The app runs at **http://localhost:8080**
-
-> **No API key?** The app works perfectly with Open-Meteo (free, no key needed). The Indian Weather API adds IMD-sourced data for Indian cities.
-
-📖 See [API_SETUP.md](./API_SETUP.md) for detailed API key setup instructions.
-
----
-
 ## 📁 Project Structure
 
 ```
